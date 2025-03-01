@@ -15,7 +15,9 @@ This project provides a financial model that calculates the future value of an i
 
 The future value of an investment considering compound interest is given by:
 
-\[ FV = P \times \left(1 + \frac{r}{n} \right)^{n \times t} \]
+$$
+FV = P \times \left(1 + \frac{r}{n} \right)^{n \times t}
+$$
 
 Where:
 
@@ -27,9 +29,9 @@ Where:
 
 ### 2. Inflation Adjustment Formula
 
-To adjust for inflation, the future value is corrected as:
-
-\[ Adjusted\ Value = \frac{FV}{(1 + inflation_rate)^{years}} \]
+$$
+Adjusted\ Value = \frac{FV}{(1 + inflation\_rate)^{years}}
+$$
 
 Where:
 
