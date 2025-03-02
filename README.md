@@ -29,10 +29,9 @@ Where:
 
 ### 2. Inflation Adjustment Formula
 
-git add .
-git commit -m "Added investment analysis project with inflation adjustment"
-git commit -am "Latest updates"$$
+$$
 Adjusted\ Value = \frac{FV}{(1 + inflation_rate)^{years}}
+$$
 
 Where:
 
