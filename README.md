@@ -29,8 +29,11 @@ Where:
 
 ### 2. Inflation Adjustment Formula
 
-$$
-Adjusted\ Value = \frac{FV}{(1 + inflation\_rate)^{years}}
+git add .
+git commit -m "Added investment analysis project with inflation adjustment"
+git commit -am "Latest updates"$$
+Adjusted\ Value = \frac{FV}{(1 + inflation_rate)^{years}}
+
 $$
 
 Where:
@@ -92,11 +95,7 @@ Inflation-Adjusted Future Value: $13490.29
 3. Enter required input values when prompted.
 4. View results in the console and generated graph.
 
-## Next Steps
-
-- Extend the model to include different interest calculation methods.
-- Add portfolio optimization and risk analysis features.
-
 ---
 
-This project is an educational tool for financial modeling and investment analysis. Contributions and improvements are welcome!
+
+$$
