@@ -94,8 +94,4 @@ Inflation-Adjusted Future Value: $13490.29
    ```
 3. Enter required input values when prompted.
 4. View results in the console and generated graph.
-
----
-
-
 $$
